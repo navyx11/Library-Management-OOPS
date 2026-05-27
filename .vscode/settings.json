@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "out",
+    "java.format.settings.url": "",
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true
+}
